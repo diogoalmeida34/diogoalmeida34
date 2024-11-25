@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Diogo Almeida👋
 
 <p align="left"> 
-  Eu me chamo Diogo Da Silva Almeida, atualmente eu tenho 19 anos, sou estudante de <strong>Engenharia de Controle e Automação</strong> no Instituto Federal do Estado de São Paulo - Campus Guarulhos. Sou integrante do Grupo de Estudos em Robótica e Sistemas embarcados do Instituto Federal de Educação, Ciências e Tecnologia de Guarulhos, no qual desenvolvo projetos relacionado a área de Robótica e/ou Sistemas Embarcados.<br>
+  Eu me chamo Diogo Da Silva Almeida, atualmente eu tenho 20 anos, sou estudante de <strong>Engenharia de Controle e Automação</strong> no Instituto Federal do Estado de São Paulo - Campus Guarulhos. Sou integrante do Grupo de Estudos em Robótica e Sistemas embarcados do Instituto Federal de Educação, Ciências e Tecnologia de Guarulhos, no qual desenvolvo projetos relacionado a área de Robótica e/ou Sistemas Embarcados.<br>
   Sou formado em técnico em Desenvolvimento de Sistemas pela Etec de Guarulhos, e sou certificado pela <strong>Microsoft</strong> como um profissional com conhecimento de nível básico de serviços em nuvem, conceitos de aprendizado de máquina (ML) e inteligência artificial (IA) e como esses serviços são fornecidos com o Microsoft Azure, obtive tal reconhecimento através dos respectivos exames: <strong>AZ-900</strong> e <strong>AI-900</strong>.
   Atualmente estou trabalhando numa bolsa voluntária em <strong>desenvolvimento de um material didático para robótica móvel</strong> e estou escrevendo um artigo científico sobre o uso de <strong>Inteligência Artificial para a identificação de falhas em rolamentos</strong> por meio de uma iniciação científica (IC).
 </p>
