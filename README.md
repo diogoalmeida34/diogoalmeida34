@@ -1,33 +1,114 @@
-## Olá! Eu sou o Diogo Almeida👋
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=25&pause=1000&vCenter=true&width=505&height=30&lines=%F0%9F%91%8B+Ol%C3%A1!+Eu+sou+o+Diogo+Da+Silva+Almeida+%F0%9F%91%8B;%F0%9F%91%8B+Hello!+I+am+Diogo+Da+Silva+Almeida+%F0%9F%91%8B;%F0%9F%91%8B+%E4%BD%A0%E5%A5%BD%EF%BC%81%E6%88%91%E6%98%AF%E8%BF%AA%E5%A5%A5%E6%88%88%C2%B7%E8%BE%BE%C2%B7%E5%B8%AD%E5%B0%94%E7%93%A6%C2%B7%E9%98%BF%E5%B0%94%E6%A2%85%E8%BE%BE+%F0%9F%91%8B;%F0%9F%91%8B+%C2%A1Hola!+Soy+Diogo+Da+Silva+Almeida+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-<p align="left"> 
-  Eu me chamo Diogo Da Silva Almeida, atualmente eu tenho 20 anos, sou estudante de <strong>Engenharia de Computação</strong> no Instituto Federal do Estado de São Paulo - Campus Guarulhos. Sou integrante do Grupo de Estudos em Robótica e Sistemas embarcados do Instituto Federal de Educação, Ciências e Tecnologia de Guarulhos, no qual desenvolvo projetos relacionado a área de Robótica e/ou Sistemas Embarcados.<br>
-  Sou formado em técnico em Desenvolvimento de Sistemas pela Etec de Guarulhos, e sou certificado pela <strong>Microsoft</strong> como um profissional com conhecimento de nível básico de serviços em nuvem, conceitos de aprendizado de máquina (ML) e inteligência artificial (IA) e como esses serviços são fornecidos com o Microsoft Azure, obtive tal reconhecimento através dos respectivos exames: <strong>AZ-900</strong> e <strong>AI-900</strong>.
-  Atualmente estou trabalhando numa bolsa voluntária em <strong>desenvolvimento de um material didático para robótica móvel</strong> e estou escrevendo um artigo científico que tem como objetivo apresentar o <strong>desenvolvimento de uma metodologia de análise de falhas em rolamentos, utilizando Redes Neurais</strong>, no contexto de uma pesquisa realizada durante uma Iniciação Científica (IC).
+<!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=25&pause=1000&vCenter=true&width=505&height=30&lines=%F0%9F%91%8B+Ol%C3%A1!+Eu+sou+o+Diogo+Almeida+%F0%9F%91%8B;%F0%9F%91%8B+Hello!+I+am+Diogo+Almeida+%F0%9F%91%8B;%F0%9F%91%8B+%E4%BD%A0%E5%A5%BD%EF%BC%81%E6%88%91%E6%98%AF%E8%BF%AA%E5%A5%A5%E6%88%88%C2%B7%E9%98%BF%E5%B0%94%E6%A2%85%E8%BE%BE+%F0%9F%91%8B;%F0%9F%91%8B+%C2%A1Hola!+Soy+Diogo+Almeida+%F0%9F%91%8B" alt="Typing SVG" /></a> -->
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustração de um computador" width="400px" align="right">
+
+Seja muito bem-vindo ao meu perfil, eu me chamo **Diogo da Silva Almeida**, tenho 20 anos e sou estudante de **Engenharia de Computação** no *Instituto Federal de São Paulo – Campus Guarulhos*. Sou membro ativo do [**GERSE** – Grupo de Estudos em Robótica e Sistemas Embarcados](http://gru.ifsp.edu.br/index.php/gerse.html), onde participo de projetos voltados às áreas de **robótica** e **sistemas embarcados**.
+
+Sou formado como **Técnico em Desenvolvimento de Sistemas** pela ETEC de Guarulhos e certificado pela **Microsoft** nos exames **AZ-900** e **AI-900**, que reconhecem conhecimentos fundamentais em **serviços de nuvem**, **inteligência artificial (IA)** e **aprendizado de máquina (ML)** com **Microsoft Azure**.
+
+Atualmente, trabalho de forma voluntária no desenvolvimento de um **material didático para robótica móvel** e estou escrevendo um **artigo científico** sobre uma metodologia para **análise de falhas em rolamentos utilizando redes neurais**, fruto de uma **pesquisa de Iniciação Científica (IC)**.
+
+---
+
+## 🚀 Programação Web
+![PHP](https://skillicons.dev/icons?i=php)
+![Web](https://skillicons.dev/icons?i=html,css)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+
+---
+
+## 📱 Desenvolvimento Mobile
+![TypeScript](https://skillicons.dev/icons?i=ts)
+
+---
+
+## 🤖 Inteligência Artificial e Microcontroladores
+![Python](https://skillicons.dev/icons?i=python)
+![C](https://skillicons.dev/icons?i=c)
+![Arduino](https://skillicons.dev/icons?i=arduino)
+![Raspberry Pi](https://skillicons.dev/icons?i=raspberrypi)
+
+---
+
+## 🗄️ Banco de Dados
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
+
+---
+
+## 🤖 Tecnologias e Ferramentas
+![Git](https://skillicons.dev/icons?i=git)
+![ROS](https://skillicons.dev/icons?i=ros)
+![VSCode](https://skillicons.dev/icons?i=vscode)
+![Figma](https://skillicons.dev/icons?i=figma)
+
+---
+
+## 🧠 Frameworks e Bibliotecas
+![Laravel](https://skillicons.dev/icons?i=laravel)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
+![JQuery](https://skillicons.dev/icons?i=jquery)
+![React](https://skillicons.dev/icons?i=react)
+
+---
+
+## 💻 Sistemas Operacionais
+![Linux](https://skillicons.dev/icons?i=linux)
+![Windows](https://skillicons.dev/icons?i=windows)
+![Ubuntu](https://skillicons.dev/icons?i=ubuntu)
+
+---
+
+## 🛠️ Outras Habilidades Técnicas
+- Versionamento com Git e GitHub
+- Programação orientada a objetos (POO)
+- Desenvolvimento de sistemas embarcados (ESP32, Arduino)
+- Escrita técnica de material didático
+- Criação de interfaces web com HTML/CSS/JavaScript
+- Análise de falhas com redes neurais (pesquisa IC)
+
+---
+
+## 🎓 Projetos
+
+<p align="left">
+  <img align="left" height="94px" width="94px" alt="gerse" src="https://avatars.githubusercontent.com/u/48525795?s=200&v=4"/>
 </p>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+[**GERSE - Grupo de Estudo em Robótica e Sistemas Embarcados**](http://gru.ifsp.edu.br/index.php/gerse.html)   
+**Membro da Equipe** • Meio Período <br>
+🔧 **Linguagens & Tecnologias**: `Python`, `C`, `ROS`, `Linux`, `Arduino`  
+📅 **Desde**: Março de 2024 - até o momento  
 
-## 🚀 Linguagens de Programação
-![My Skills](https://skillicons.dev/icons?i=python,cpp,php,cs)<br><br>
+📌 **Projetos em Destaque:**
 
-## 🔧 Ferramentas e Tecnologias de Trabalho 
-![My Skills](https://skillicons.dev/icons?i=ros,arduino,linux,raspberrypi)<br><br>
+- [**Material Didático para Robótica Móvel**](https://www.linkedin.com/in/diogo-da-silva-almeida/details/projects/)
+- [**Robô Seguidor de Linha**](https://www.linkedin.com/in/diogo-da-silva-almeida/details/projects/)
 
-### 💼 Experiência de trabalho
-[<img align="left" height="94px" width="94px" alt="gerse" src="https://avatars.githubusercontent.com/u/48525795?s=200&v=4"/>](http://gru.ifsp.edu.br/index.php/gerse.html)
+---
 
-**Membro da Equipe**
-• [**GERSE - Grupo de Estudo em Robótica e Sistemas Embarcados**]([http://gru.ifsp.edu.br/index.php/gerse.html](http://gru.ifsp.edu.br/images/1676479762360.jpg)) • Meio Período \
-Linguagens & Tecnologias: `Python`, `C`, `ROS`, `Linux`, `Raspberry Pi`, `Arduino`\
-Desde: Março de 2024 - até o momento<br/>
-Projetos em destaque: [Material Didático para Robótica Móvel](https://www.linkedin.com/in/diogo-da-silva-almeida/details/projects/)<br/><br/>
+<p align="left">
+  <img align="left" height="94px" width="94px" alt="gerse" src="https://github.com/user-attachments/assets/1b3173c7-634b-40e2-91d0-fa43b36e0e60"/>
 
-## ⭐ GitHub Stats
-[![GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=diogoalmeida34&layout=compact&theme=tokyonight)](https://github.com/diogoalmeida34/github-readme-stats)<br/>
+</p>
 
-## Contatos
-  <a href="mailto:almeidasdiogo2018@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-22c2e2?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
-  <a href ="mailto:almeidasdiogo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/diogo-silva-almeida" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-  <a href="https://learn.microsoft.com/pt-br/users/diogo-silva-almeida/" target="_blank"><img src="https://img.shields.io/badge/Microsoft-009639?style=for-the-badge&logo=microsoft&logoColor=white">
+[**LADECAM - Laboratório de Aquisição de Dados, Ensaios e Caracterização de Materiais**](http://dgp.cnpq.br/dgp/espelhogrupo/8102924507174190)   
+**Membro da Equipe** • Meio Período <br>
+🔧 **Linguagens & Tecnologias**: `Kicad`, `C`, `Python`, `TensorFlow`  
+📅 **Desde**: Agosto de 2024 - até o momento  
+
+📌 **Projetos em Destaque:**
+
+- [**Análise de Falhas em Rolamentos Utilizando Redes Neurais**](https://www.linkedin.com/in/diogo-da-silva-almeida/details/projects/)
+
+---
+
+## 📊 GitHub Stats
+
+<div style="display: flex; justify-content: space-between; gap: 5px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogoalmeida34&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="diogoalmeida34's Top Languages" style="width: 48%; height: 180px; object-fit: cover;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=diogoalmeida34&theme=tokyonight&show_icons=true&hide_border=false&count_private=false" alt="diogoalmeida34's Stats" style="width: 48%; height: 180px; object-fit: cover;" />
+</div>
