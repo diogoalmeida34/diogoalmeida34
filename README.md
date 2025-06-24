@@ -6,7 +6,9 @@
 
 Seja muito bem-vindo ao meu perfil, eu me chamo **Diogo da Silva Almeida**, tenho 20 anos e sou estudante de **Engenharia de Computação** no *Instituto Federal de São Paulo – Campus Guarulhos*. Sou membro ativo do [**GERSE** – Grupo de Estudos em Robótica e Sistemas Embarcados](http://gru.ifsp.edu.br/index.php/gerse.html), onde participo de projetos voltados às áreas de **robótica** e **sistemas embarcados**.
 
-Sou formado como **Técnico em Desenvolvimento de Sistemas** pela ETEC de Guarulhos e certificado pela **Microsoft** nos exames **AZ-900** e **AI-900**, que reconhecem conhecimentos fundamentais em **serviços de nuvem**, **inteligência artificial (IA)** e **aprendizado de máquina (ML)** com **Microsoft Azure**.
+Sou formado como **Técnico em Desenvolvimento de Sistemas** com conhecimentos sólidos em tecnologias de nuvem e inteligência artificial da Microsoft. Com formação pela ETEC de Guarulhos, aprofundei minhas competências através das certificações **AZ-900 (Azure Fundamentals)**, **AI-900 (Azure AI Fundamentals)** e **DP-900 (Azure Data Fundamentals)**.
+
+Essa base me permite compreender e aplicar os principais serviços de Cloud Computing, explorar o potencial de soluções de Inteligência Artificial e Machine Learning, e gerenciar os principais conceitos de dados na plataforma Microsoft Azure.
 
 Atualmente, trabalho de forma voluntária no desenvolvimento de um **material didático para robótica móvel** e estou escrevendo um **artigo científico** sobre uma metodologia para **análise de falhas em rolamentos utilizando redes neurais**, fruto de uma **pesquisa de Iniciação Científica (IC)**.
 
