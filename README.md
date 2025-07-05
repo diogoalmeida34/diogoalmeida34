@@ -18,16 +18,21 @@ Atualmente, trabalho de forma voluntária no desenvolvimento de um **material di
 ![PHP](https://skillicons.dev/icons?i=php)
 ![Web](https://skillicons.dev/icons?i=html,css)
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
+![Laravel](https://skillicons.dev/icons?i=laravel)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+![JQuery](https://skillicons.dev/icons?i=jquery)
 
 ---
 
 ## 📱 Desenvolvimento Mobile
 ![TypeScript](https://skillicons.dev/icons?i=ts)
+![React](https://skillicons.dev/icons?i=react)
 
 ---
 
 ## 🤖 Inteligência Artificial e Microcontroladores
 ![Python](https://skillicons.dev/icons?i=python)
+![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
 ![C](https://skillicons.dev/icons?i=c)
 ![Arduino](https://skillicons.dev/icons?i=arduino)
 ![Raspberry Pi](https://skillicons.dev/icons?i=raspberrypi)
@@ -45,15 +50,6 @@ Atualmente, trabalho de forma voluntária no desenvolvimento de um **material di
 ![ROS](https://skillicons.dev/icons?i=ros)
 ![VSCode](https://skillicons.dev/icons?i=vscode)
 ![Figma](https://skillicons.dev/icons?i=figma)
-
----
-
-## 🧠 Frameworks e Bibliotecas
-![Laravel](https://skillicons.dev/icons?i=laravel)
-![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
-![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
-![JQuery](https://skillicons.dev/icons?i=jquery)
-![React](https://skillicons.dev/icons?i=react)
 
 ---
 
