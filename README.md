@@ -4,7 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustração de um computador" width="400px" align="right">
 
-Seja muito bem-vindo ao meu perfil, eu me chamo **Diogo da Silva Almeida**, tenho 20 anos e sou estudante de **Engenharia de Computação** no *Instituto Federal de São Paulo – Campus Guarulhos*. Sou membro ativo do [**GERSE** – Grupo de Estudos em Robótica e Sistemas Embarcados](http://gru.ifsp.edu.br/index.php/gerse.html), onde participo de projetos voltados às áreas de **robótica** e **sistemas embarcados**.
+Seja muito bem-vindo ao meu perfil, eu me chamo **Diogo da Silva Almeida**, tenho 21 anos e sou estudante de **Engenharia de Computação** no *Instituto Federal de São Paulo – Campus Guarulhos*. Sou membro ativo do [**GERSE** – Grupo de Estudos em Robótica e Sistemas Embarcados](http://gru.ifsp.edu.br/index.php/gerse.html), onde participo de projetos voltados às áreas de **robótica** e **sistemas embarcados**.
 
 Sou formado como **Técnico em Desenvolvimento de Sistemas** com conhecimentos sólidos em tecnologias de nuvem e inteligência artificial da Microsoft. Com formação pela ETEC de Guarulhos, aprofundei minhas competências através das certificações **AZ-900 (Azure Fundamentals)**, **AI-900 (Azure AI Fundamentals)** e **DP-900 (Azure Data Fundamentals)**.
 
